@@ -2,7 +2,7 @@
     margin: 0%;
 }
 
-#device{
+.device{
     background-color: rgb(50, 50, 207);
     height: 53px;
 }
@@ -19,7 +19,7 @@
    margin-left: 30px;
    margin-top: 10px;
 }
-#topicos{
+.topicos{
     border-bottom: solid;
     text-align: center;
     background-color: aliceblue;
@@ -32,4 +32,14 @@
 #salgado{
     font-size: 20px;
     
+}
+#doce{
+    font-size: 20px;
+
+}
+#refeicoes{
+    font-size: 20px;
+}
+#conversor{
+    font-size: 20px;
 }
