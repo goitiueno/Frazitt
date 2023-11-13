@@ -1,0 +1,35 @@
+* {
+    margin: 0%;
+}
+
+#device{
+    background-color: rgb(50, 50, 207);
+    height: 53px;
+}
+
+.header {
+    position: -webkit-sticky; /* Necessário para funcionar no Safari */
+    position: sticky;
+    top: 0;
+}
+.titulo{
+   
+    color: aliceblue;
+   position: fixed;
+   margin-left: 30px;
+   margin-top: 10px;
+}
+#topicos{
+    border-bottom: solid;
+    text-align: center;
+    background-color: aliceblue;
+}
+#receitas{
+    font-size: 20px;
+    
+
+}
+#salgado{
+    font-size: 20px;
+    
+}
